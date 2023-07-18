@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-repositorio de prueba del modulo de 2 
+como crear un repositorio desde github a mi computadora
